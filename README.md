@@ -4,6 +4,7 @@ As for today, my programming skills consists knowledge in:
 - Java
 - C
 - C#
+- Python
 - As well as knowledge about data structures and basic algorithms
 
 My main interest is learning and practicing with:
