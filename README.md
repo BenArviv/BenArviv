@@ -1,5 +1,5 @@
 Hi everyone, I'm @benarviv. <br><br>
-Currently, I'm a second year Computer Science student, at @TheOpenUniversity of Israel. <br><br>
+Currently, I'm a third year Computer Science student, at @TheOpenUniversity of Israel. <br><br>
 As for today, my programming skills consists knowledge in:
 - Java
 - C
@@ -12,7 +12,6 @@ My main interest is learning and practicing with:
 - Artificial Intelligence and Machine Learning
 - Data Science stuff
 - Cyber stuff
-- Basically, in that particular order
 
 
 <!---
