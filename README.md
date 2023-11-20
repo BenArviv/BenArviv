@@ -1,5 +1,5 @@
 Hi everyone, I'm @benarviv. <br><br>
-Currently, I'm a third year Computer Science student, at @TheOpenUniversity of Israel. <br><br>
+Currently, I'm a final year Computer Science student, at @TheOpenUniversity of Israel. <br><br>
 As for today, my programming skills consists knowledge in:
 - Java
 - C
